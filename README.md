@@ -12,3 +12,4 @@
 ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/3D-Blender-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GameDev-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GameDev-Unity-informational?style=flat&logo=Unity&logoColor=white&color=2bbc8a)
