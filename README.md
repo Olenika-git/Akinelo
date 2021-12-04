@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+Computer enthusiast.
+I started by learning the field of hardware and software, I know how to diagnose and replace a faulty component on my workstation, 
+as well as the installation and management of the software.
+
 <summary>Operating Systems</summary>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
