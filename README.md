@@ -1,5 +1,6 @@
 
 ### Hi there 👋
+[![Social banner for jh3y](https://github.com/akinelo/Akinelo/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 
 <!--
 **akinelo/Akinelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
