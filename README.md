@@ -29,3 +29,5 @@
 <summary>IDEs</summary>
 
 ![](https://img.shields.io/badge/IDEs-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/IDEs-VisualCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/IDEs-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=0078D6)
