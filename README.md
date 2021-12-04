@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-[![Social banner for akinelo](https://raw.githubusercontent.com/akinelo/Akinelo/e23a2511b4d17ad415c511a4b8a4b2cfb0df6b9c/assets/Aki.svg)]
+![Social banner for akinelo](https://raw.githubusercontent.com/akinelo/Akinelo/e23a2511b4d17ad415c511a4b8a4b2cfb0df6b9c/assets/Aki.svg)
 
 <!--
 **akinelo/Akinelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
