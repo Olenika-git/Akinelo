@@ -15,4 +15,5 @@
 ![](https://img.shields.io/badge/GameDev-Unity-informational?style=flat&logo=Unity&logoColor=white&color=2bbc8a)
 
 <summary>Skills</summary>
+
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=0078D6)
