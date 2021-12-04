@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/OS-Trello-informational?style=flat&logo=trello&logoColor=white&color=2bbc8a)
+
 <summary>Softwares</summary>
 
 ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=0078D6)
