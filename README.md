@@ -17,3 +17,5 @@
 <summary>Skills</summary>
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=js&logoColor=white&color=0078D6)
