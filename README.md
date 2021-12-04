@@ -26,6 +26,11 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0078D6)
 
+<summary>Version Control</summary>
+
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=0078D6)
+
+
 <summary>IDEs</summary>
 
 ![](https://img.shields.io/badge/IDEs-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=white&color=0078D6)
