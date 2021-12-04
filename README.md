@@ -29,6 +29,7 @@
 
 <summary>Project Management</summary>
 
+![](https://img.shields.io/badge/Agile-informational?style=flat&logo=agile&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=white&color=0078D6)
 
 <summary>Version Control</summary>
