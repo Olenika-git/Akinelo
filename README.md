@@ -22,5 +22,5 @@
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-nodeJS-informational?style=flat&logo=node.js&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c#&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0078D6)
