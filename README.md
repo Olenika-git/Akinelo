@@ -10,4 +10,4 @@
 <summary>Softwares</summary>
 
 ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/3D-Blender-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
