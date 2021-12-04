@@ -56,3 +56,5 @@ as well as the installation and management of the software.
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0078D6)
+
+Contact me : mordredbugreport@gmail.com
