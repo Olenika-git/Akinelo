@@ -1,5 +1,6 @@
 
 ### Hi there 👋
+[![Social banner for akinelo](https://github.com/akinelo/Akinelo/raw/master/assets/Aki.svg)]
 
 <!--
 **akinelo/Akinelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
