@@ -3,8 +3,8 @@
   ### Hi there 👋 my name is Gaetan.B
 
 Computer enthusiast since my youngest age.
-I know how to diagnose and replace a faulty component on my
-workstation, when i got some lasure time, i like to play chess, video games and reading books.
+I know how to diagnose and replace a faulty component on my workstation,
+when i got some lasure time, i like to play chess, video games and reading books.
 
 <summary>Operating Systems</summary>
 
