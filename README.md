@@ -2,9 +2,9 @@
 
   ### Hi there 👋 my name is Gaetan.B
 
-Computer enthusiast.
-I started by learning the field of hardware and software, I know how to diagnose and replace a faulty component on my workstation, 
-as well as the installation and management of the software.
+Computer enthusiast since my youngest age.
+I know how to diagnose and replace a faulty component on my
+workstation, when i got some lasure time, i like to play chess, video games and reading books.
 
 <summary>Operating Systems</summary>
 
