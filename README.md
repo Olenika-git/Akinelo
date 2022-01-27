@@ -25,6 +25,7 @@ when i got some lasure time, i like to play chess, video games and reading books
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-nodeJS-informational?style=flat&logo=node.js&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=0078D6)
