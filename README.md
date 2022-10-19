@@ -1,6 +1,6 @@
 ![Social banner for akinelo](https://raw.githubusercontent.com/akinelo/Akinelo/e23a2511b4d17ad415c511a4b8a4b2cfb0df6b9c/assets/Aki.svg)
 
-  ### Hi there 👋 my name is Gaetan.B
+  ### Hi there 👋
 
 Computer enthusiast since my youngest age.
 I know how to diagnose and replace a faulty component on my workstation,
