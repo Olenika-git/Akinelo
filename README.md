@@ -58,5 +58,3 @@ when i got some lasure time, i like to play chess, video games and reading books
 ![](https://img.shields.io/badge/MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=mongodb&logoColor=white&color=0078D6)
-
-Contact me : mordredbugreport@gmail.com
